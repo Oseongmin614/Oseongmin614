@@ -1,11 +1,10 @@
-<div align="center">
- 
-<div style="width: 100%; text-align: center;">
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=My%20GitHub%20Profile&fontSize=70" />
+</p>
 
-![](https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" />
+</p>
 ## Info
 
 오성민<br>
