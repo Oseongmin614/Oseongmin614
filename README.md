@@ -1,7 +1,7 @@
-![Uploading img.gif…]()
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" />
-</p>
+  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/logo.svg" width="300" height="100">
+</p>	
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello! &descAlignY=51&descAlign=62"/>
