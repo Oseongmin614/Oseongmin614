@@ -51,8 +51,7 @@ ohseongmin0614@gmail.com<br>
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 ## Commit Stats
-![byjun3x2's GitHub stats](https://github-readme-stats.vercel.app/api?username=byjun3x2&show_icons=true&theme=dark)
+![Oseongmin614's GitHub stats](https://github-readme-stats.vercel.app/api?username=byjun3x2&show_icons=true&theme=dark)
 
 ## Language Stats
-<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hear&layout=compact&theme=dark)
