@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
 ## Info
-
+ 
 오성민<br>
 ohseongmin0614@gmail.com<br>
 [github.com/byjun3x2](https://github.com/Oseongmin614)<br>
@@ -51,7 +51,8 @@ ohseongmin0614@gmail.com<br>
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 ## Commit Stats
-![Oseongmin614's GitHub stats](https://github-readme-stats.vercel.app/api?username=byjun3x2&show_icons=true&theme=dark)
+![Oseongmin614's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oseongmin614&show_icons=true&theme=dark)
 
 ## Language Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hear&layout=compact&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oseongmin614&layout=compact&theme=dark)
