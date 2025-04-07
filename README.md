@@ -1,11 +1,13 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A4D4F7,100:FFFFFF&height=150&section=header&text=안녕하세요" width="100%" height="150">
 <div style="flex: 1; min-width: 250px;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=안녕하세요!" width="100%" height="150">
+   
   </div>
-## Info
+
 <div style="font-size: 16px;">
       <a href="mailto:ohseongmin0614@gmail.com">ohseongmin0614@gmail.com</a><br>
       <a href="https://github.com/Oseongmin614">github.com/Oseongmin614</a><br>
     </div>
+
 
 
   
