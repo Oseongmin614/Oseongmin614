@@ -1,5 +1,5 @@
 <div style="flex: 1; min-width: 250px;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hello!&descAlignY=51&descAlign=62" style="width: 100%; height: auto;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=안녕하세요!" width="100%" height="150">
   </div>
 ## Info
 <div style="font-size: 16px;">
@@ -7,7 +7,7 @@
       <a href="https://github.com/Oseongmin614">github.com/Oseongmin614</a><br>
     </div>
 
-## Info
+
   
 
 ## 아이디어를 현실로 구현하는 것을 즐기는 개발자 오성민입니다.
