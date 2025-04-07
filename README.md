@@ -5,7 +5,7 @@
   </div>
 
 <div style="font-size: 16px;">
-      <a href="mailto:ohseongmin0614@gmail.com">ohseongmin0614@gmail.com</a><br>
+      [ohseongmin0614@gmail.com](mailto:ohseongmin0614@gmail.com)<br>
       <a href="https://github.com/Oseongmin614">github.com/Oseongmin614</a><br>
     </div>
 
