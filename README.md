@@ -1,20 +1,19 @@
-
+## Info
+ 
+오성민<br>
+ohseongmin0614@gmail.com<br>
+[github.com/Oseongmin614](https://github.com/Oseongmin614)<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" style="height: 0%; width: auto;">
+</div>
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello! &descAlignY=51&descAlign=62"/>
 </p>
 
-<p align='center'>
-  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
-    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
+
   
-## Info
- 
-오성민<br>
-ohseongmin0614@gmail.com<br>
-[github.com/Oseongmin614](https://github.com/Oseongmin614)<br>
 
 ## 아이디어를 현실로 구현하는 것을 즐기는 개발자 오성민입니다.
 
