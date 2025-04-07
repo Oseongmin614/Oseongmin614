@@ -13,6 +13,10 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hello!&descAlignY=51&descAlign=62" style="width: 100%; height: auto;">
   </div>
 </div>
+
+<!-- 파도 라인 -->
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
+
   
 
 ## 아이디어를 현실로 구현하는 것을 즐기는 개발자 오성민입니다.
