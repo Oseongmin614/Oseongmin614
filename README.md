@@ -1,21 +1,12 @@
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <!-- 좌측: 프로필 이미지 및 텍스트 -->
-  <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="GIF" style="width: 100px; height: auto; margin-right: 20px;">
-    <div style="font-size: 16px;">
+  <div style="flex: 1; min-width: 250px;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=안녕하세요!&descAlignY=51&descAlign=62" style="width: 100%; height: auto;">
+  </div>
+##   Info
+<div style="font-size: 16px;">
       ohseongmin0614@gmail.com<br>
       <a href="https://github.com/Oseongmin614">github.com/Oseongmin614</a><br>
     </div>
-  </div>
 
-  <!-- 우측: 캡슐 이미지 -->
-  <div style="flex: 1; min-width: 250px;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hello!&descAlignY=51&descAlign=62" style="width: 100%; height: auto;">
-  </div>
-</div>
-
-<!-- 파도 라인 -->
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
   
 
@@ -60,3 +51,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohseongmin0614)](https://solved.ac/ohseongmin0614)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oseongmin614&layout=compact&theme=dark)
+
+
+<!-- 파도 라인 -->
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
