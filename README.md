@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A4D4F7,100:FFFFFF&height=150&section=header&text=안녕하세요" width="100%" height="150">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004AAD,100:1E3A8A&height=150&section=header&text=Hello!&fontColor=ffffff" width="100%" height="150">
+
 <div style="flex: 1; min-width: 250px;">
    
   </div>
@@ -56,4 +57,4 @@
 
 
 <!-- 파도 라인 -->
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004AAD,100:1E3A8A&height=150&section=footer" width="100%" height="150">
