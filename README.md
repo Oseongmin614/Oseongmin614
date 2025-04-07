@@ -1,5 +1,5 @@
-  <div style="flex: 1; min-width: 250px;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=안녕하세요!&descAlignY=51&descAlign=62" style="width: 100%; height: auto;">
+<div style="flex: 1; min-width: 250px;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hello!&descAlignY=51&descAlign=62" style="width: 100%; height: auto;">
   </div>
 ##   Info
 <div style="font-size: 16px;">
