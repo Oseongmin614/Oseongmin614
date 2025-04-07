@@ -1,16 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004AAD,100:1E3A8A&height=150&section=header&text=Hello!&fontColor=ffffff" width="100%" height="150">
-
-<div style="flex: 1; min-width: 250px;">
-   
-  </div>
-
-<div style="font-size: 16px;">
-      [ohseongmin0614@gmail.com](mailto:ohseongmin0614@gmail.com)<br>
-      <a href="https://github.com/Oseongmin614">github.com/Oseongmin614</a><br>
-    </div>
-
-
-
   
 
 ## 아이디어를 현실로 구현하는 것을 즐기는 개발자 오성민입니다.
@@ -19,7 +7,7 @@
 논리적인 사고로 무에서 유를 만드는 프로그래밍에 흥미가 있습니다. <br> 특정 언어에 국한되지 않은 개발자가 되고 싶습니다.<br>
 현재는 폴리텍대학 인공지능소프트웨어 학과에서 <b>풀스택 개발자 과정</b>을 배우고 있습니다<br>
 
-##  Skills
+##  Skills & Tools
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
