@@ -1,15 +1,17 @@
-## Info
-
+##  Info
 <div style="display: flex; align-items: center;">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="My Photo" style="width: 100px; height: auto; margin-right: 20px;">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="GIF" style="width: 100px; height: auto; margin-right: 20px;">
   <div>
     ohseongmin0614@gmail.com<br>
     <a href="https://github.com/Oseongmin614">github.com/Oseongmin614</a><br>
   </div>
 </div>
 
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
-
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello! &descAlignY=51&descAlign=62"/>
+</p>
   
 
 ## 아이디어를 현실로 구현하는 것을 즐기는 개발자 오성민입니다.
