@@ -43,6 +43,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oseongmin614&layout=compact&theme=dark)
 
-
-<!-- 파도 라인 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004AAD,100:1E3A8A&height=150&section=footer" width="100%" height="150">
