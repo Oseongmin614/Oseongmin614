@@ -43,6 +43,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohseongmin0614)](https://solved.ac/ohseongmin0614)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oseongmin614&layout=compact&hide=html,css&langs_count=8&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oseongmin614&layout=compact&hide=html,css,jupyter%20notebook&langs_count=8&theme=default)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004AAD,100:1E3A8A&height=150&section=footer" width="100%" height="150">
