@@ -38,11 +38,16 @@
 정보처리기사  |   SQLD   |  ADSP
 
 
+
 ## Commit Stats
 ![Oseongmin614's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oseongmin614&show_icons=true&theme=dark)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohseongmin0614)](https://solved.ac/ohseongmin0614)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oseongmin614&layout=compact&hide=html,css,jupyter%20notebook&langs_count=8&theme=default)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/Oseongmin614?pet-id=1" width="1000" height="120"/>
+</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004AAD,100:1E3A8A&height=150&section=footer" width="100%" height="150">
